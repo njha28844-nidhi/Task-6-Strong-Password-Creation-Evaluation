@@ -33,10 +33,10 @@ I created 5 passwords with increasing complexity levels:
 
 | Password | Type |
 |---------|------|
-| ansh123 | Very Weak |
-| Ansh@123 | Weak |
-| Ansh@Cyber | Medium |
-| Ansh@Cyber2025 | Strong |
+| ansh | Very Weak |
+| Ansh123 | Weak |
+| Ansh@Cyber | Strong |
+| Ansh@Cyber2025 | Very Strong |
 | A#n$h_CyB3r!2025 | Very Strong |
 
 ---
